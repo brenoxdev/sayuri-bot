@@ -1,0 +1,9 @@
+node_modules/
+.env
+db/*.txt
+db/*.json
+*.zip
+*.logmodels/
+*.db
+*.db
+models/

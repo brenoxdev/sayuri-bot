@@ -1,0 +1,5 @@
+DISPLAY_NAME=Sayuri Bot
+ENTRYPOINT=index.js
+MEMORY=1024
+VERSION=recommended
+DESCRIPTION=Bot da Sayuri
